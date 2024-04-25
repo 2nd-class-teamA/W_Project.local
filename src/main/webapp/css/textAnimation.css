@@ -1,0 +1,84 @@
+@charset "UTF-8";
+body {
+	text-align: center;
+	background-color:#ffd900;
+}
+
+.textbox {
+	margin-top: 50px;
+	font-size: 90px;
+	font-weight:bold;
+}
+.textbox p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.itsu {
+	animation-name: itsu;
+	animation-duration: 2s;
+	animation-timing-function: ease-out;
+	animation-delay: 0.2s;
+	animation-fill-mode: forwards;
+	opacity: 0;
+}
+@keyframes itsu{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		
+		opacity: 1;
+	}
+}
+.doko {
+	animation-name: doko;
+	animation-duration: 2s;
+	animation-timing-function: ease-out;
+	animation-delay: 1.5s;
+	animation-fill-mode: forwards;
+	opacity: 0;
+}
+@keyframes doko{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		
+		opacity: 1;
+	}
+}
+.dare {
+	animation-name: dare;
+	animation-duration: 2s;
+	animation-timing-function: ease-out;
+	animation-delay: 3s;
+	animation-fill-mode: forwards;
+	opacity: 0;
+}
+@keyframes dare{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		
+		opacity: 1;
+	}
+}
+.nani {
+	animation-name: nani;
+	animation-duration: 2s;
+	animation-timing-function: ease-out;
+	animation-delay: 4.5s;
+	animation-fill-mode: forwards;
+	opacity: 0;
+}
+@keyframes nani{
+	0%{
+		opacity: 0;
+	}
+	100%{
+		
+		opacity: 1;
+	}
+}
