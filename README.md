@@ -45,7 +45,7 @@
 
 **【機能概要】**
 
-・ブラウザより「<https://w-project.onrender.com/W_Project/>」で起動可能なこと。
+・ブラウザより「<https://w-project.mlabsrv.com/W_Project/>」で起動可能なこと。
 
 ※本アプリケーションの画面遷移イメージについては、別資料「画面遷移図」を参照。
 
